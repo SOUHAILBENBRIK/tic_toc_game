@@ -40,6 +40,7 @@ Ensure that you have Android Studio installed on your computer.
 4.Explore the app's friendly UI and make managing your credit a delightful experience!
 
 ### ScreenShot
-![1.screenshot](https://github.com/SOUHAILBENBRIK/walletapp/blob/master/app/screenShot/Capture.PNG)
-![2.screenshot](https://github.com/SOUHAILBENBRIK/walletapp/blob/master/app/screenShot/Capture1.PNG)
+![1.screenshot](https://github.com/SOUHAILBENBRIK/tic_toc_game/blob/master/screenShot/Capture.PNG)
+![2.screenshot](https://github.com/SOUHAILBENBRIK/tic_toc_game/blob/master/screenShot/Capture1.PNG)
+![3.screenshot](https://github.com/SOUHAILBENBRIK/tic_toc_game/blob/master/screenShot/Capture2.PNG)
 
