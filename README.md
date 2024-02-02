@@ -28,9 +28,9 @@ Ensure that you have Android Studio installed on your computer.
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/SOUHAILBENBRIK/walletapp.git
+   git clone https://github.com/SOUHAILBENBRIK/tic_toc_game.git
 2. Navigate to the project directory:
-   cd walletapp
+   cd tic_toc_game
 
 ### Usage
 
